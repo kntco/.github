@@ -1,5 +1,5 @@
 <div align="center">
-	<image height="150px" src="https://github.com/octofex/.github/blob/main/profile/octofex.png?raw=true" alt="IYE LOGO">
+	<image height="150px" src="https://github.com/octofex/.github/blob/main/logos/png/logo-color.png?raw=true" alt="IYE LOGO">
 </div>
 
 ## Go Ahead!
