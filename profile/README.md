@@ -4,8 +4,8 @@
 
 ## Go Ahead!
 You can be part of our software, go ahead commit something! Before you start there is our rules:
-* [Code Of Conduct](https://github.com/octofex/docs/contributing/CODE_OF_CONDUCT.md)
-* [Styling Guide](https://github.com/octofex/docs/styling)
+* [Code Of Conduct](https://github.com/octofex/docs/tree/main/contributing/CODE_OF_CONDUCT.md)
+* [Styling Guide](https://github.com/octofex/docs/tree/main/styling)
 
 <hr>
 We take our <a href="https://github.com/octofex/.github/docs/CODE_OF_CONDUCT.md">Code Of Conduct</a> serious, please read it before contributing.
